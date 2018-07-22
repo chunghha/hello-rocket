@@ -1,0 +1,12 @@
+[package]
+name = "hello-rocket"
+version = "0.1.0"
+authors = ["Chris Ha <chunghha@users.noreply.github.com>"]
+
+[dependencies]
+rocket = "0.3.15"
+rocket_codegen = "0.3.15"
+rocket_contrib = "0.3.15"
+serde = "1.0.70"
+serde_derive = "1.0.70"
+serde_json = "1.0.24"
